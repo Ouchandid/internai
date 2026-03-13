@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# Pickle / ML
+*.pkl
+mlruns/
+
+# macOS
+.DS_Store
